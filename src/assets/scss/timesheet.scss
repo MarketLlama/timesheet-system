@@ -1,0 +1,53 @@
+/*! =========================================================
+ *
+ Material Dashboard PRO React - v1.5.0 based on Material Dashboard PRO - V1.2.1
+*
+* =========================================================
+*
+* Copyright 2016 Creative Tim (https://www.google.com/product/mtimesheet-scss)
+ *
+ *                       _oo0oo_
+ *                      o8888888o
+ *                      88" . "88
+ *                      (| -_- |)
+ *                      0\  =  /0
+ *                    ___/`---'\___
+ *                  .' \|     |// '.
+ *                 / \|||  :  |||// \
+ *                / _||||| -:- |||||- \
+ *               |   | \\  -  /// |   |
+ *               | \_|  ''\---/''  |_/ |
+ *               \  .-\__  '-'  ___/-. /
+ *             ___'. .'  /--.--\  `. .'___
+ *          ."" '<  `.___\_<|>_/___.' >' "".
+ *         | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+ *         \  \ `_.   \_ __\ /__ _/   .-` /  /
+ *     =====`-.____`.___ \_____/___.-`___.-'=====
+ *                       `=---='
+ *
+ *     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *
+ *               Buddha Bless:  "No Bugs"
+ *
+ * ========================================================= */
+
+// variables and mixins
+@import "timesheet-scss/variables";
+@import "timesheet-scss/mixins";
+@import "timesheet-scss/shadows";
+
+// plugin css
+@import "timesheet-scss/plugins/plugin-nouislider";
+@import "timesheet-scss/plugins/plugin-perfect-scrollbar";
+@import "timesheet-scss/plugins/plugin-react-datetime";
+@import "timesheet-scss/plugins/plugin-react-bootstrap-sweetalert";
+@import "timesheet-scss/plugins/plugin-react-chartist";
+@import "timesheet-scss/plugins/plugin-react-big-calendar";
+@import "timesheet-scss/plugins/plugin-react-jvectormap";
+@import "timesheet-scss/plugins/plugin-react-table";
+@import "timesheet-scss/plugins/plugin-react-tagsinput";
+
+// Core CSS
+@import "timesheet-scss/misc";
+@import "timesheet-scss/fileupload";
+@import "timesheet-scss/fixed-plugin";
